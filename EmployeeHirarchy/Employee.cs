@@ -27,7 +27,7 @@ namespace EmployeeHirarchy
     {
         public override double CalculateBonus()
         {
-            // Managers get a bonus of 15% of their salary
+            
             return Salary * 0.15;
         }
 
@@ -55,7 +55,7 @@ namespace EmployeeHirarchy
     {
         public override double CalculateBonus()
         {
-            // Salespersons get a bonus of 5% of their salary
+            
             return Salary * 0.05;
         }
 
