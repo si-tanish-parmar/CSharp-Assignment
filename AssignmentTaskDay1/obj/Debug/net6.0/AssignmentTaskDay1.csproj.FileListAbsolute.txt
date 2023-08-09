@@ -1,0 +1,15 @@
+D:\.Net\AssignmentTaskDay1\bin\Debug\net6.0\AssignmentTaskDay1.exe
+D:\.Net\AssignmentTaskDay1\bin\Debug\net6.0\AssignmentTaskDay1.deps.json
+D:\.Net\AssignmentTaskDay1\bin\Debug\net6.0\AssignmentTaskDay1.runtimeconfig.json
+D:\.Net\AssignmentTaskDay1\bin\Debug\net6.0\AssignmentTaskDay1.dll
+D:\.Net\AssignmentTaskDay1\bin\Debug\net6.0\AssignmentTaskDay1.pdb
+D:\.Net\AssignmentTaskDay1\obj\Debug\net6.0\AssignmentTaskDay1.csproj.AssemblyReference.cache
+D:\.Net\AssignmentTaskDay1\obj\Debug\net6.0\AssignmentTaskDay1.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\AssignmentTaskDay1\obj\Debug\net6.0\AssignmentTaskDay1.AssemblyInfoInputs.cache
+D:\.Net\AssignmentTaskDay1\obj\Debug\net6.0\AssignmentTaskDay1.AssemblyInfo.cs
+D:\.Net\AssignmentTaskDay1\obj\Debug\net6.0\AssignmentTaskDay1.csproj.CoreCompileInputs.cache
+D:\.Net\AssignmentTaskDay1\obj\Debug\net6.0\AssignmentTaskDay1.dll
+D:\.Net\AssignmentTaskDay1\obj\Debug\net6.0\refint\AssignmentTaskDay1.dll
+D:\.Net\AssignmentTaskDay1\obj\Debug\net6.0\AssignmentTaskDay1.pdb
+D:\.Net\AssignmentTaskDay1\obj\Debug\net6.0\AssignmentTaskDay1.genruntimeconfig.cache
+D:\.Net\AssignmentTaskDay1\obj\Debug\net6.0\ref\AssignmentTaskDay1.dll

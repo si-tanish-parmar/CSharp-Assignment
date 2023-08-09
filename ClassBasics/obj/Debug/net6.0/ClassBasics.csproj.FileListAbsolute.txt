@@ -1,0 +1,15 @@
+D:\.Net\ClassBasics\bin\Debug\net6.0\ClassBasics.exe
+D:\.Net\ClassBasics\bin\Debug\net6.0\ClassBasics.deps.json
+D:\.Net\ClassBasics\bin\Debug\net6.0\ClassBasics.runtimeconfig.json
+D:\.Net\ClassBasics\bin\Debug\net6.0\ClassBasics.dll
+D:\.Net\ClassBasics\bin\Debug\net6.0\ClassBasics.pdb
+D:\.Net\ClassBasics\obj\Debug\net6.0\ClassBasics.csproj.AssemblyReference.cache
+D:\.Net\ClassBasics\obj\Debug\net6.0\ClassBasics.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\ClassBasics\obj\Debug\net6.0\ClassBasics.AssemblyInfoInputs.cache
+D:\.Net\ClassBasics\obj\Debug\net6.0\ClassBasics.AssemblyInfo.cs
+D:\.Net\ClassBasics\obj\Debug\net6.0\ClassBasics.csproj.CoreCompileInputs.cache
+D:\.Net\ClassBasics\obj\Debug\net6.0\ClassBasics.dll
+D:\.Net\ClassBasics\obj\Debug\net6.0\refint\ClassBasics.dll
+D:\.Net\ClassBasics\obj\Debug\net6.0\ClassBasics.pdb
+D:\.Net\ClassBasics\obj\Debug\net6.0\ClassBasics.genruntimeconfig.cache
+D:\.Net\ClassBasics\obj\Debug\net6.0\ref\ClassBasics.dll

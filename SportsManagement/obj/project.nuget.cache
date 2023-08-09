@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gt1KUk556TQaVXv6pM4rvxaN7ovaL0bLNCRHV3HNRodnDVfx6ym851/Ymzt3KgrYYZWekDYGnt3UZPSDwVCLUg==",
+  "success": true,
+  "projectFilePath": "D:\\.Net\\SportsManagement\\SportsManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tanish.parmar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\tanish.parmar\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\tanish.parmar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\tanish.parmar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

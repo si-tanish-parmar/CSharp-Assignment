@@ -1,0 +1,15 @@
+D:\.Net\StudentGradingSystem\bin\Debug\net6.0\StudentGradingSystem.exe
+D:\.Net\StudentGradingSystem\bin\Debug\net6.0\StudentGradingSystem.deps.json
+D:\.Net\StudentGradingSystem\bin\Debug\net6.0\StudentGradingSystem.runtimeconfig.json
+D:\.Net\StudentGradingSystem\bin\Debug\net6.0\StudentGradingSystem.dll
+D:\.Net\StudentGradingSystem\bin\Debug\net6.0\StudentGradingSystem.pdb
+D:\.Net\StudentGradingSystem\obj\Debug\net6.0\StudentGradingSystem.csproj.AssemblyReference.cache
+D:\.Net\StudentGradingSystem\obj\Debug\net6.0\StudentGradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\StudentGradingSystem\obj\Debug\net6.0\StudentGradingSystem.AssemblyInfoInputs.cache
+D:\.Net\StudentGradingSystem\obj\Debug\net6.0\StudentGradingSystem.AssemblyInfo.cs
+D:\.Net\StudentGradingSystem\obj\Debug\net6.0\StudentGradingSystem.csproj.CoreCompileInputs.cache
+D:\.Net\StudentGradingSystem\obj\Debug\net6.0\StudentGradingSystem.dll
+D:\.Net\StudentGradingSystem\obj\Debug\net6.0\refint\StudentGradingSystem.dll
+D:\.Net\StudentGradingSystem\obj\Debug\net6.0\StudentGradingSystem.pdb
+D:\.Net\StudentGradingSystem\obj\Debug\net6.0\StudentGradingSystem.genruntimeconfig.cache
+D:\.Net\StudentGradingSystem\obj\Debug\net6.0\ref\StudentGradingSystem.dll

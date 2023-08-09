@@ -1,0 +1,15 @@
+D:\.Net\OnlineShoppingCart\bin\Debug\net6.0\OnlineShoppingCart.exe
+D:\.Net\OnlineShoppingCart\bin\Debug\net6.0\OnlineShoppingCart.deps.json
+D:\.Net\OnlineShoppingCart\bin\Debug\net6.0\OnlineShoppingCart.runtimeconfig.json
+D:\.Net\OnlineShoppingCart\bin\Debug\net6.0\OnlineShoppingCart.dll
+D:\.Net\OnlineShoppingCart\bin\Debug\net6.0\OnlineShoppingCart.pdb
+D:\.Net\OnlineShoppingCart\obj\Debug\net6.0\OnlineShoppingCart.csproj.AssemblyReference.cache
+D:\.Net\OnlineShoppingCart\obj\Debug\net6.0\OnlineShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\OnlineShoppingCart\obj\Debug\net6.0\OnlineShoppingCart.AssemblyInfoInputs.cache
+D:\.Net\OnlineShoppingCart\obj\Debug\net6.0\OnlineShoppingCart.AssemblyInfo.cs
+D:\.Net\OnlineShoppingCart\obj\Debug\net6.0\OnlineShoppingCart.csproj.CoreCompileInputs.cache
+D:\.Net\OnlineShoppingCart\obj\Debug\net6.0\OnlineShoppingCart.dll
+D:\.Net\OnlineShoppingCart\obj\Debug\net6.0\refint\OnlineShoppingCart.dll
+D:\.Net\OnlineShoppingCart\obj\Debug\net6.0\OnlineShoppingCart.pdb
+D:\.Net\OnlineShoppingCart\obj\Debug\net6.0\OnlineShoppingCart.genruntimeconfig.cache
+D:\.Net\OnlineShoppingCart\obj\Debug\net6.0\ref\OnlineShoppingCart.dll

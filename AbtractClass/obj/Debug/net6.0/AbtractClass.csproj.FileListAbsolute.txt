@@ -1,0 +1,15 @@
+D:\.Net\AbtractClass\bin\Debug\net6.0\AbtractClass.exe
+D:\.Net\AbtractClass\bin\Debug\net6.0\AbtractClass.deps.json
+D:\.Net\AbtractClass\bin\Debug\net6.0\AbtractClass.runtimeconfig.json
+D:\.Net\AbtractClass\bin\Debug\net6.0\AbtractClass.dll
+D:\.Net\AbtractClass\bin\Debug\net6.0\AbtractClass.pdb
+D:\.Net\AbtractClass\obj\Debug\net6.0\AbtractClass.csproj.AssemblyReference.cache
+D:\.Net\AbtractClass\obj\Debug\net6.0\AbtractClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\AbtractClass\obj\Debug\net6.0\AbtractClass.AssemblyInfoInputs.cache
+D:\.Net\AbtractClass\obj\Debug\net6.0\AbtractClass.AssemblyInfo.cs
+D:\.Net\AbtractClass\obj\Debug\net6.0\AbtractClass.csproj.CoreCompileInputs.cache
+D:\.Net\AbtractClass\obj\Debug\net6.0\AbtractClass.dll
+D:\.Net\AbtractClass\obj\Debug\net6.0\refint\AbtractClass.dll
+D:\.Net\AbtractClass\obj\Debug\net6.0\AbtractClass.pdb
+D:\.Net\AbtractClass\obj\Debug\net6.0\AbtractClass.genruntimeconfig.cache
+D:\.Net\AbtractClass\obj\Debug\net6.0\ref\AbtractClass.dll

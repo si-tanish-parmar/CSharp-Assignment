@@ -1,0 +1,15 @@
+D:\.Net\ShapeHierarchy\bin\Debug\net6.0\ShapeHierarchy.exe
+D:\.Net\ShapeHierarchy\bin\Debug\net6.0\ShapeHierarchy.deps.json
+D:\.Net\ShapeHierarchy\bin\Debug\net6.0\ShapeHierarchy.runtimeconfig.json
+D:\.Net\ShapeHierarchy\bin\Debug\net6.0\ShapeHierarchy.dll
+D:\.Net\ShapeHierarchy\bin\Debug\net6.0\ShapeHierarchy.pdb
+D:\.Net\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.csproj.AssemblyReference.cache
+D:\.Net\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.AssemblyInfoInputs.cache
+D:\.Net\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.AssemblyInfo.cs
+D:\.Net\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.csproj.CoreCompileInputs.cache
+D:\.Net\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.dll
+D:\.Net\ShapeHierarchy\obj\Debug\net6.0\refint\ShapeHierarchy.dll
+D:\.Net\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.pdb
+D:\.Net\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.genruntimeconfig.cache
+D:\.Net\ShapeHierarchy\obj\Debug\net6.0\ref\ShapeHierarchy.dll

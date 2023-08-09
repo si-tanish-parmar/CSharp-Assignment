@@ -1,0 +1,15 @@
+D:\.Net\EmployeeHirarchy\bin\Debug\net6.0\EmployeeHirarchy.exe
+D:\.Net\EmployeeHirarchy\bin\Debug\net6.0\EmployeeHirarchy.deps.json
+D:\.Net\EmployeeHirarchy\bin\Debug\net6.0\EmployeeHirarchy.runtimeconfig.json
+D:\.Net\EmployeeHirarchy\bin\Debug\net6.0\EmployeeHirarchy.dll
+D:\.Net\EmployeeHirarchy\bin\Debug\net6.0\EmployeeHirarchy.pdb
+D:\.Net\EmployeeHirarchy\obj\Debug\net6.0\EmployeeHirarchy.csproj.AssemblyReference.cache
+D:\.Net\EmployeeHirarchy\obj\Debug\net6.0\EmployeeHirarchy.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\EmployeeHirarchy\obj\Debug\net6.0\EmployeeHirarchy.AssemblyInfoInputs.cache
+D:\.Net\EmployeeHirarchy\obj\Debug\net6.0\EmployeeHirarchy.AssemblyInfo.cs
+D:\.Net\EmployeeHirarchy\obj\Debug\net6.0\EmployeeHirarchy.csproj.CoreCompileInputs.cache
+D:\.Net\EmployeeHirarchy\obj\Debug\net6.0\EmployeeHirarchy.dll
+D:\.Net\EmployeeHirarchy\obj\Debug\net6.0\refint\EmployeeHirarchy.dll
+D:\.Net\EmployeeHirarchy\obj\Debug\net6.0\EmployeeHirarchy.pdb
+D:\.Net\EmployeeHirarchy\obj\Debug\net6.0\EmployeeHirarchy.genruntimeconfig.cache
+D:\.Net\EmployeeHirarchy\obj\Debug\net6.0\ref\EmployeeHirarchy.dll

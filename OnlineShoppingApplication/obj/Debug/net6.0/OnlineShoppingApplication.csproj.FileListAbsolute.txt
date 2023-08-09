@@ -1,0 +1,15 @@
+D:\.Net\OnlineShoppingApplication\bin\Debug\net6.0\OnlineShoppingApplication.exe
+D:\.Net\OnlineShoppingApplication\bin\Debug\net6.0\OnlineShoppingApplication.deps.json
+D:\.Net\OnlineShoppingApplication\bin\Debug\net6.0\OnlineShoppingApplication.runtimeconfig.json
+D:\.Net\OnlineShoppingApplication\bin\Debug\net6.0\OnlineShoppingApplication.dll
+D:\.Net\OnlineShoppingApplication\bin\Debug\net6.0\OnlineShoppingApplication.pdb
+D:\.Net\OnlineShoppingApplication\obj\Debug\net6.0\OnlineShoppingApplication.csproj.AssemblyReference.cache
+D:\.Net\OnlineShoppingApplication\obj\Debug\net6.0\OnlineShoppingApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\OnlineShoppingApplication\obj\Debug\net6.0\OnlineShoppingApplication.AssemblyInfoInputs.cache
+D:\.Net\OnlineShoppingApplication\obj\Debug\net6.0\OnlineShoppingApplication.AssemblyInfo.cs
+D:\.Net\OnlineShoppingApplication\obj\Debug\net6.0\OnlineShoppingApplication.csproj.CoreCompileInputs.cache
+D:\.Net\OnlineShoppingApplication\obj\Debug\net6.0\OnlineShoppingApplication.dll
+D:\.Net\OnlineShoppingApplication\obj\Debug\net6.0\refint\OnlineShoppingApplication.dll
+D:\.Net\OnlineShoppingApplication\obj\Debug\net6.0\OnlineShoppingApplication.pdb
+D:\.Net\OnlineShoppingApplication\obj\Debug\net6.0\OnlineShoppingApplication.genruntimeconfig.cache
+D:\.Net\OnlineShoppingApplication\obj\Debug\net6.0\ref\OnlineShoppingApplication.dll

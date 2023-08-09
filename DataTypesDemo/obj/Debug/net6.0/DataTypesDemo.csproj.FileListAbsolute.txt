@@ -1,0 +1,15 @@
+D:\.Net\DataTypesDemo\bin\Debug\net6.0\DataTypesDemo.exe
+D:\.Net\DataTypesDemo\bin\Debug\net6.0\DataTypesDemo.deps.json
+D:\.Net\DataTypesDemo\bin\Debug\net6.0\DataTypesDemo.runtimeconfig.json
+D:\.Net\DataTypesDemo\bin\Debug\net6.0\DataTypesDemo.dll
+D:\.Net\DataTypesDemo\bin\Debug\net6.0\DataTypesDemo.pdb
+D:\.Net\DataTypesDemo\obj\Debug\net6.0\DataTypesDemo.csproj.AssemblyReference.cache
+D:\.Net\DataTypesDemo\obj\Debug\net6.0\DataTypesDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\DataTypesDemo\obj\Debug\net6.0\DataTypesDemo.AssemblyInfoInputs.cache
+D:\.Net\DataTypesDemo\obj\Debug\net6.0\DataTypesDemo.AssemblyInfo.cs
+D:\.Net\DataTypesDemo\obj\Debug\net6.0\DataTypesDemo.csproj.CoreCompileInputs.cache
+D:\.Net\DataTypesDemo\obj\Debug\net6.0\DataTypesDemo.dll
+D:\.Net\DataTypesDemo\obj\Debug\net6.0\refint\DataTypesDemo.dll
+D:\.Net\DataTypesDemo\obj\Debug\net6.0\DataTypesDemo.pdb
+D:\.Net\DataTypesDemo\obj\Debug\net6.0\DataTypesDemo.genruntimeconfig.cache
+D:\.Net\DataTypesDemo\obj\Debug\net6.0\ref\DataTypesDemo.dll

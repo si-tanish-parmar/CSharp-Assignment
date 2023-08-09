@@ -1,0 +1,15 @@
+D:\.Net\BasicsContinued\bin\Debug\net6.0\BasicsContinued.exe
+D:\.Net\BasicsContinued\bin\Debug\net6.0\BasicsContinued.deps.json
+D:\.Net\BasicsContinued\bin\Debug\net6.0\BasicsContinued.runtimeconfig.json
+D:\.Net\BasicsContinued\bin\Debug\net6.0\BasicsContinued.dll
+D:\.Net\BasicsContinued\bin\Debug\net6.0\BasicsContinued.pdb
+D:\.Net\BasicsContinued\obj\Debug\net6.0\BasicsContinued.csproj.AssemblyReference.cache
+D:\.Net\BasicsContinued\obj\Debug\net6.0\BasicsContinued.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\BasicsContinued\obj\Debug\net6.0\BasicsContinued.AssemblyInfoInputs.cache
+D:\.Net\BasicsContinued\obj\Debug\net6.0\BasicsContinued.AssemblyInfo.cs
+D:\.Net\BasicsContinued\obj\Debug\net6.0\BasicsContinued.csproj.CoreCompileInputs.cache
+D:\.Net\BasicsContinued\obj\Debug\net6.0\BasicsContinued.dll
+D:\.Net\BasicsContinued\obj\Debug\net6.0\refint\BasicsContinued.dll
+D:\.Net\BasicsContinued\obj\Debug\net6.0\BasicsContinued.pdb
+D:\.Net\BasicsContinued\obj\Debug\net6.0\BasicsContinued.genruntimeconfig.cache
+D:\.Net\BasicsContinued\obj\Debug\net6.0\ref\BasicsContinued.dll

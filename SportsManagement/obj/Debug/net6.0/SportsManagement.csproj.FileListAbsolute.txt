@@ -1,0 +1,15 @@
+D:\.Net\SportsManagement\bin\Debug\net6.0\SportsManagement.exe
+D:\.Net\SportsManagement\bin\Debug\net6.0\SportsManagement.deps.json
+D:\.Net\SportsManagement\bin\Debug\net6.0\SportsManagement.runtimeconfig.json
+D:\.Net\SportsManagement\bin\Debug\net6.0\SportsManagement.dll
+D:\.Net\SportsManagement\bin\Debug\net6.0\SportsManagement.pdb
+D:\.Net\SportsManagement\obj\Debug\net6.0\SportsManagement.csproj.AssemblyReference.cache
+D:\.Net\SportsManagement\obj\Debug\net6.0\SportsManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\SportsManagement\obj\Debug\net6.0\SportsManagement.AssemblyInfoInputs.cache
+D:\.Net\SportsManagement\obj\Debug\net6.0\SportsManagement.AssemblyInfo.cs
+D:\.Net\SportsManagement\obj\Debug\net6.0\SportsManagement.csproj.CoreCompileInputs.cache
+D:\.Net\SportsManagement\obj\Debug\net6.0\SportsManagement.dll
+D:\.Net\SportsManagement\obj\Debug\net6.0\refint\SportsManagement.dll
+D:\.Net\SportsManagement\obj\Debug\net6.0\SportsManagement.pdb
+D:\.Net\SportsManagement\obj\Debug\net6.0\SportsManagement.genruntimeconfig.cache
+D:\.Net\SportsManagement\obj\Debug\net6.0\ref\SportsManagement.dll

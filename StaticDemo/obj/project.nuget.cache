@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "09TWn8e4/ANacE3cAkXje1IHCNbxfgRjEpDG+sj4+iBAwmm965ZOTm2lRy6BMHhYJIbLf6OoAVyHdsTRBho8yA==",
+  "success": true,
+  "projectFilePath": "D:\\.Net\\StaticDemo\\StaticDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tanish.parmar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\tanish.parmar\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\tanish.parmar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\tanish.parmar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

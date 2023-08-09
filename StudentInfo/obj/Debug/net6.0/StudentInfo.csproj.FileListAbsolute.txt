@@ -1,0 +1,15 @@
+D:\.Net\StudentInfo\bin\Debug\net6.0\StudentInfo.exe
+D:\.Net\StudentInfo\bin\Debug\net6.0\StudentInfo.deps.json
+D:\.Net\StudentInfo\bin\Debug\net6.0\StudentInfo.runtimeconfig.json
+D:\.Net\StudentInfo\bin\Debug\net6.0\StudentInfo.dll
+D:\.Net\StudentInfo\bin\Debug\net6.0\StudentInfo.pdb
+D:\.Net\StudentInfo\obj\Debug\net6.0\StudentInfo.csproj.AssemblyReference.cache
+D:\.Net\StudentInfo\obj\Debug\net6.0\StudentInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\StudentInfo\obj\Debug\net6.0\StudentInfo.AssemblyInfoInputs.cache
+D:\.Net\StudentInfo\obj\Debug\net6.0\StudentInfo.AssemblyInfo.cs
+D:\.Net\StudentInfo\obj\Debug\net6.0\StudentInfo.csproj.CoreCompileInputs.cache
+D:\.Net\StudentInfo\obj\Debug\net6.0\StudentInfo.dll
+D:\.Net\StudentInfo\obj\Debug\net6.0\refint\StudentInfo.dll
+D:\.Net\StudentInfo\obj\Debug\net6.0\StudentInfo.pdb
+D:\.Net\StudentInfo\obj\Debug\net6.0\StudentInfo.genruntimeconfig.cache
+D:\.Net\StudentInfo\obj\Debug\net6.0\ref\StudentInfo.dll

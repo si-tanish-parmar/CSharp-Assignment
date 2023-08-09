@@ -1,0 +1,15 @@
+D:\.Net\CollectionsDemo\bin\Debug\net6.0\CollectionsDemo.exe
+D:\.Net\CollectionsDemo\bin\Debug\net6.0\CollectionsDemo.deps.json
+D:\.Net\CollectionsDemo\bin\Debug\net6.0\CollectionsDemo.runtimeconfig.json
+D:\.Net\CollectionsDemo\bin\Debug\net6.0\CollectionsDemo.dll
+D:\.Net\CollectionsDemo\bin\Debug\net6.0\CollectionsDemo.pdb
+D:\.Net\CollectionsDemo\obj\Debug\net6.0\CollectionsDemo.csproj.AssemblyReference.cache
+D:\.Net\CollectionsDemo\obj\Debug\net6.0\CollectionsDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\CollectionsDemo\obj\Debug\net6.0\CollectionsDemo.AssemblyInfoInputs.cache
+D:\.Net\CollectionsDemo\obj\Debug\net6.0\CollectionsDemo.AssemblyInfo.cs
+D:\.Net\CollectionsDemo\obj\Debug\net6.0\CollectionsDemo.csproj.CoreCompileInputs.cache
+D:\.Net\CollectionsDemo\obj\Debug\net6.0\CollectionsDemo.dll
+D:\.Net\CollectionsDemo\obj\Debug\net6.0\refint\CollectionsDemo.dll
+D:\.Net\CollectionsDemo\obj\Debug\net6.0\CollectionsDemo.pdb
+D:\.Net\CollectionsDemo\obj\Debug\net6.0\CollectionsDemo.genruntimeconfig.cache
+D:\.Net\CollectionsDemo\obj\Debug\net6.0\ref\CollectionsDemo.dll

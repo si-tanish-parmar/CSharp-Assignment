@@ -1,0 +1,15 @@
+D:\.Net\StaticDemo\bin\Debug\net6.0\StaticDemo.exe
+D:\.Net\StaticDemo\bin\Debug\net6.0\StaticDemo.deps.json
+D:\.Net\StaticDemo\bin\Debug\net6.0\StaticDemo.runtimeconfig.json
+D:\.Net\StaticDemo\bin\Debug\net6.0\StaticDemo.dll
+D:\.Net\StaticDemo\bin\Debug\net6.0\StaticDemo.pdb
+D:\.Net\StaticDemo\obj\Debug\net6.0\StaticDemo.csproj.AssemblyReference.cache
+D:\.Net\StaticDemo\obj\Debug\net6.0\StaticDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\StaticDemo\obj\Debug\net6.0\StaticDemo.AssemblyInfoInputs.cache
+D:\.Net\StaticDemo\obj\Debug\net6.0\StaticDemo.AssemblyInfo.cs
+D:\.Net\StaticDemo\obj\Debug\net6.0\StaticDemo.csproj.CoreCompileInputs.cache
+D:\.Net\StaticDemo\obj\Debug\net6.0\StaticDemo.dll
+D:\.Net\StaticDemo\obj\Debug\net6.0\refint\StaticDemo.dll
+D:\.Net\StaticDemo\obj\Debug\net6.0\StaticDemo.pdb
+D:\.Net\StaticDemo\obj\Debug\net6.0\StaticDemo.genruntimeconfig.cache
+D:\.Net\StaticDemo\obj\Debug\net6.0\ref\StaticDemo.dll

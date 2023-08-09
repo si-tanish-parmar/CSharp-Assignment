@@ -1,0 +1,15 @@
+D:\.Net\DegateBasics\bin\Debug\net6.0\DegateBasics.exe
+D:\.Net\DegateBasics\bin\Debug\net6.0\DegateBasics.deps.json
+D:\.Net\DegateBasics\bin\Debug\net6.0\DegateBasics.runtimeconfig.json
+D:\.Net\DegateBasics\bin\Debug\net6.0\DegateBasics.dll
+D:\.Net\DegateBasics\bin\Debug\net6.0\DegateBasics.pdb
+D:\.Net\DegateBasics\obj\Debug\net6.0\DegateBasics.csproj.AssemblyReference.cache
+D:\.Net\DegateBasics\obj\Debug\net6.0\DegateBasics.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\DegateBasics\obj\Debug\net6.0\DegateBasics.AssemblyInfoInputs.cache
+D:\.Net\DegateBasics\obj\Debug\net6.0\DegateBasics.AssemblyInfo.cs
+D:\.Net\DegateBasics\obj\Debug\net6.0\DegateBasics.csproj.CoreCompileInputs.cache
+D:\.Net\DegateBasics\obj\Debug\net6.0\DegateBasics.dll
+D:\.Net\DegateBasics\obj\Debug\net6.0\refint\DegateBasics.dll
+D:\.Net\DegateBasics\obj\Debug\net6.0\DegateBasics.pdb
+D:\.Net\DegateBasics\obj\Debug\net6.0\DegateBasics.genruntimeconfig.cache
+D:\.Net\DegateBasics\obj\Debug\net6.0\ref\DegateBasics.dll

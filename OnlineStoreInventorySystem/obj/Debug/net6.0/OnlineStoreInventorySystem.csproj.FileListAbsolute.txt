@@ -1,0 +1,15 @@
+D:\.Net\OnlineStoreInventorySystem\bin\Debug\net6.0\OnlineStoreInventorySystem.exe
+D:\.Net\OnlineStoreInventorySystem\bin\Debug\net6.0\OnlineStoreInventorySystem.deps.json
+D:\.Net\OnlineStoreInventorySystem\bin\Debug\net6.0\OnlineStoreInventorySystem.runtimeconfig.json
+D:\.Net\OnlineStoreInventorySystem\bin\Debug\net6.0\OnlineStoreInventorySystem.dll
+D:\.Net\OnlineStoreInventorySystem\bin\Debug\net6.0\OnlineStoreInventorySystem.pdb
+D:\.Net\OnlineStoreInventorySystem\obj\Debug\net6.0\OnlineStoreInventorySystem.csproj.AssemblyReference.cache
+D:\.Net\OnlineStoreInventorySystem\obj\Debug\net6.0\OnlineStoreInventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\OnlineStoreInventorySystem\obj\Debug\net6.0\OnlineStoreInventorySystem.AssemblyInfoInputs.cache
+D:\.Net\OnlineStoreInventorySystem\obj\Debug\net6.0\OnlineStoreInventorySystem.AssemblyInfo.cs
+D:\.Net\OnlineStoreInventorySystem\obj\Debug\net6.0\OnlineStoreInventorySystem.csproj.CoreCompileInputs.cache
+D:\.Net\OnlineStoreInventorySystem\obj\Debug\net6.0\OnlineStoreInventorySystem.dll
+D:\.Net\OnlineStoreInventorySystem\obj\Debug\net6.0\refint\OnlineStoreInventorySystem.dll
+D:\.Net\OnlineStoreInventorySystem\obj\Debug\net6.0\OnlineStoreInventorySystem.pdb
+D:\.Net\OnlineStoreInventorySystem\obj\Debug\net6.0\OnlineStoreInventorySystem.genruntimeconfig.cache
+D:\.Net\OnlineStoreInventorySystem\obj\Debug\net6.0\ref\OnlineStoreInventorySystem.dll
