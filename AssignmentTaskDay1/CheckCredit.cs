@@ -15,8 +15,7 @@ namespace AssignmentTaskDay1
             Console.Write("Enter the purchase price: ");
             string input = Console.ReadLine();
 
-            if (decimal.TryParse(input, out decimal purchasePrice))
-            {
+          
                 if (purchasePrice > creditLimit)
                 {
                     Console.WriteLine("Error: Purchase price exceeds the credit limit.");
@@ -25,11 +24,7 @@ namespace AssignmentTaskDay1
                 {
                     Console.WriteLine("Approved.");
                 }
-            }
-            else
-            {
-                Console.WriteLine("Invalid input. Please enter a valid numeric value.");
-            }
+          
         }
     }
 }
