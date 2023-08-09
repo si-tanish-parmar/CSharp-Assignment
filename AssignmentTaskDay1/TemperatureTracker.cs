@@ -10,50 +10,44 @@ namespace AssignmentTaskDay1
     {
         static void Main(string[] args)
         {
-            const int minTemperature = 20;
-            const int maxTemperature = 130;
+            static void Main(string[] args)
+    
+        int total = 0;
+        int count = 0;
+        int sentinel = -1; // Sentinel value to end input
 
-            int totalTemperatures = 0;
-            int sumTemperatures = 0;
+        while (true)
+        {
+            Console.WriteLine("Please enter a daily high temperature (20-130), or enter -1 to finish:");
+            int temperature = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Enter daily high temperatures (Enter '0' to finish):");
-
-            while (true)
+            if (temperature == sentinel)
             {
-                Console.Write("Enter temperature (20 - 130) or '0' to finish: ");
-                string input = Console.ReadLine();
-
-                if (int.TryParse(input, out int temperature))
+                if (count == 0)
                 {
-                    if (temperature == 0)
-                        break;
-
-                    if (temperature >= minTemperature && temperature <= maxTemperature)
-                    {
-                        sumTemperatures += temperature;
-                        totalTemperatures++;
-                    }
-                    else
-                    {
-                        Console.WriteLine("Invalid temperature! Temperature must be between 20 and 130.");
-                    }
+                    Console.WriteLine("No temperatures entered.");
                 }
                 else
                 {
-                    Console.WriteLine("Invalid input! Please enter a valid temperature.");
+                    double average = (double)total / count;
+                    Console.WriteLine("Number of temperatures entered: {0}", count);
+                    Console.WriteLine("Average temperature: {0}", average);
                 }
+                break; // Exit the loop when the sentinel value is entered
             }
-
-            if (totalTemperatures > 0)
+            else if (temperature >= 20 && temperature <= 130)
             {
-                double averageTemperature = (double)sumTemperatures / totalTemperatures;
-                Console.WriteLine($"Total temperatures entered: {totalTemperatures}");
-                Console.WriteLine($"Average temperature: {averageTemperature:F2} Fahrenheit");
+                total += temperature;
+                count++;
             }
             else
             {
-                Console.WriteLine("No valid temperatures entered.");
+                Console.WriteLine("Invalid temperature. Please enter a valid temperature between 20 and 130.");
             }
+        }
+
+        Console.ReadLine();
+    
         }
     }
 }
