@@ -47,12 +47,8 @@
             student.Name = Console.ReadLine();
 
             Console.Write("Enter Age: ");
-            int age;
-            while (!int.TryParse(Console.ReadLine(), out age) || age <= 0)
-            {
-                Console.WriteLine("Invalid age! Please enter a valid age.");
-                Console.Write("Enter Age: ");
-            }
+            int age = Convert.ToInt32(Console.Readline());
+           
             student.Age = age;
 
             Console.Write("Enter Gender: ");
@@ -69,12 +65,7 @@
             foreach (var course in courses)
             {
                 Console.Write($"Enter grade for {course.Trim()}: ");
-                int grade;
-                while (!int.TryParse(Console.ReadLine(), out grade) || grade < 0 || grade > 100)
-                {
-                    Console.WriteLine("Invalid grade! Please enter a valid grade between 0 and 100.");
-                    Console.Write($"Enter grade for {course.Trim()}: ");
-                }
+                int grade = Convert.ToInt32(Console.Readline());
                 student.AddCourseGrade(grade);
             }
 
